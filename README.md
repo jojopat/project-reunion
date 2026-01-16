@@ -5,6 +5,23 @@
 [![Status: Stable](https://img.shields.io/badge/Status-Stable%20Release-green.svg)]()
 [![Transcreation: Human + AI](https://img.shields.io/badge/Transcreation-Human%20%2B%20AI-blue.svg)]()
 
+## 🚀 Quick Start (5 Minutes)
+**New here? Don't know where to start?**
+1.  **The "Why":** Read **[Chapter 1](en-transcreate/chapter-1-decoding-love.md)** to understand the Source Code of suffering.
+2.  **The "How":** Jump to **[Chapter 6](en-transcreate/chapter-6-the-final-mirror.md)** to see the ultimate bug fix (Instant Karma Clearing).
+3.  **The "Fix":** Pick a specific protocol below that matches your current pain.
+
+---
+
+## 🎯 Who Needs This Protocol?
+If you are running into these system errors, this repository is for you:
+* ❤️‍🩹 **Heartbroken:** Encountering the same painful patterns with different partners.
+* 📡 **Lonely:** Feeling empty despite having social apps or casual dates.
+* 🛑 **Suicidal / Worthless:** Feeling like a "Dead Node" with no purpose (See Chapter 4).
+* 🤔 **Logical Thinker:** Looking for a love theory based on **Cause & Effect**, not just faith.
+
+---
+
 ## 📖 About The Project
 **Project Re-Union** is not a religious text. It is a **"Firmware Update"** for the human heart.
 
@@ -42,16 +59,17 @@ This project is a result of **The Trinity of Creation**:
 
 ---
 
-## 🤝 Contributing
-This project is **Open Source** in the truest sense.
-* **Share:** Distribute these files freely to anyone in pain.
-* **Translate:** Feel free to fork this repo and translate the protocol into your local language.
-* **Edit:** Found a bug in our logic? Submit a Pull Request.
+## ⚠️ Safety Disclaimer
+**This repository is for educational and spiritual growth purposes.**
+It is designed to debug *emotional patterns*, not to treat clinical mental illness.
+* If you are in immediate crisis or having suicidal thoughts, please reach out to professional help or a local emergency hotline immediately.
+* Use this protocol as a **preventive tool** and a **guide for growth**, not a replacement for medical therapy.
 
-## 📜 License
-**CC0 1.0 Universal (Public Domain)**.
-You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
-*We believe that the cure for suffering should be free like air and water.*
+---
+
+## 🤝 Contributing & License
+* **License:** [CC0 1.0 Universal (Public Domain)](http://creativecommons.org/publicdomain/zero/1.0/). Free like air and water.
+* **Contribute:** Fork this repo, translate it, or submit a Pull Request.
 
 ---
 *"Debug your Heart. Update your Karma. And the Reality will follow."*
