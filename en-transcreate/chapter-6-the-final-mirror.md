@@ -38,6 +38,49 @@ The fact that you get triggered ("Jeed" in Thai) proves that the seed of that be
 ## 6.3 The Zero-Harm Protocol (Universal Life)
 Finally, to completely clear your energy field, you must expand your "No-Harm Policy" beyond just humans.
 
+## 6.4 Case Study: The "Grade 5" Butterfly Effect
+*(Based on a True Story from "Miss A", an alumna of a world-class university)*
+
+This story proves that you don't need to look at "Past Lives" to see Karma working. Sometimes, the ghost haunting you is just a forgotten memory from your own childhood.
+
+**The Subject:**
+Miss A (26), a high-profile woman with a degree from one of the most prestigious universities in the world. Beautiful, smart, and normally very rational.
+
+**The Bug:**
+She fell madly in love with a man who was the opposite of her "spec." He wasn't her type physically, and worse, he was cheating on her with another woman openly.
+Logically, she knew she should leave. But emotionally, she was enslaved. She would drive to his house every evening, crying, asking herself, *"Why can't I stop loving this guy?"*
+
+**The Flashback:**
+She consulted me, and after deep reflection, she remembered a specific event from when she was 11 years old (Grade 5).
+* **The Plan:** To become #1 in the class, she manipulated two smart boys (best friends) into falling in love with her.
+* **The Result:** The boys fought over her, stopped studying, and their grades dropped. She won the #1 spot easily.
+* **The Karma:** She created a "Code of Confusion" using attraction as a weapon. That code was saved in the cloud, waiting to execute 15 years later.
+
+**The Debugging (The Fix):**
+At 9:00 PM, she tracked down both men (now living abroad), called them, confessed her childhood plot, and asked for forgiveness (*Ahosikamma*).
+Both men laughed it off and forgave her wholeheartedly.
+
+**The Result (The Instant Miracle):**
+This is the scientific proof of Karma.
+* **T-minus 12 Hours (The Evening Before):** Miss A and her toxic boyfriend were having dinner, **sweetly feeding each other food**, completely in love. She felt she could never live without him.
+* **T-plus 10 Hours (The Morning After):** Following the apology calls, she woke up and drove to see him again at 7:29 AM.
+
+She looked at his face and felt... **Nothing.**
+It was as if a switch had been flipped. The intense gravity, the heartbreak, the obsession—it was all deleted instantly. The "Karmic Debt" was paid. The mirror had nothing left to reflect.
+
+They broke up peacefully that very morning.
+Years later, when the man fell ill and was hospitalized (while his wife was abroad), Miss A went to the hospital and slept on the sofa for days to care for him—**purely as a sister/friend.**
+* No anger.
+* No romantic feelings.
+* Just pure compassion for a fellow human being.
+
+> **The Lesson:**
+> When you delete the root cause (Karma), the effect (Suffering) vanishes **instantly**. It doesn't take time to heal; it takes "Truth" to heal.
+>
+> But the most beautiful part is the aftermath:
+> When Karma ends, the relationship doesn't turn into hate. It turns into **Peace**.
+> You stop being "Lovers in Debt" and become "Fellow Travelers" who wish each other well.
+
 **All Life is Connected.**
 Every living being—from an ant to an elephant—runs on the same OS: **The will to live.**
 * When you cut a life short (kill), you are not just ending a biology. You are generating a shockwave of **Terror and Vengeance.**
