@@ -31,7 +31,17 @@ It knows that your current persona has lived life purely as a **"Consumer."**
 
 A system that only downloads and never uploads is a **Leech Node**. In nature, Leech Nodes are terminated to save resources. The feeling of "wanting to die" is actually your soul recognizing that a life of "Taking" is meaningless. It is a logical conclusion of a bankrupt spirit.
 
-## 4.3 The "Rich Man vs. The Old Lady" (True Dana)
+## 4.3 The Revenge Trap (Dying to Punish)
+Many people contemplate suicide not just to escape pain, but to **punish** the one who hurt them.
+* *The Logic:* "If I die, he will cry. He will regret losing me. He will suffer for the rest of his life."
+* *The Reality:* This is a fatal miscalculation.
+
+If you die today, your ex-partner might cry for 3 days, maybe a week.
+Then, they will go back to work. Next month, they will meet someone new. Next year, they will get married and have kids.
+**They will move on.**
+But YOU? You will be stuck in the dark frequency of anger and sorrow forever, unable to move on. You destroy your entire universe just to give them a momentary scratch. **It’s a bad trade.**
+
+## 4.4 The "Rich Man vs. The Old Lady" (True Dana)
 So, how do we justify our existence? We must switch from **Input Mode** to **Output Mode**. We call this **Dana (The Art of Letting Go).**
 
 But be careful. Not all outputs are valid.
@@ -46,7 +56,7 @@ An old lady, bent with age, empties her pockets. She has 26 Baht. She keeps 6 Ba
 * Her mind says: *"I end my attachment to this wealth. I give it all for the common good."*
 * **This is True Dana.** It is not about the amount. It is about the **"Deletion of Attachment" (Caga).**
 
-## 4.4 The Rescue Protocol
+## 4.5 The Rescue Protocol
 If you are feeling worthless or suicidal today, do not try to "love yourself" (that's just more Ego input).
 Instead, prove your value to the Universe by executing this command:
 
