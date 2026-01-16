@@ -16,7 +16,7 @@ We often describe loneliness as an empty space in our chest—a "Void" that scre
 
 Why? Because you are trying to fix a **Hardware Issue** (Inner State) with **Software Patches** (External Distractions). It’s a compatibility error.
 
-## 2.2 System Dependency vs. Standalone Mode
+## 2.2 System Dependency vs. The Debtor's Freedom
 Human beings are "Social Animals" by design, meaning our default setting is **"Online Mode"**—constantly scanning for connection.
 * When we are single, we scan for a partner.
 * When we are in a relationship, we scan for validation.
@@ -24,9 +24,12 @@ Human beings are "Social Animals" by design, meaning our default setting is **"O
 The suffering of loneliness arises when your system is **Dependent** on an external server to function. You are like a terminal that cannot work without a mainframe. If the mainframe (your partner/friend) goes offline or disconnects, your system crashes.
 
 **True stability comes from switching to "Standalone Mode."**
-This doesn't mean isolating yourself. It means possessing your own **Internal Power Supply**.
-* **Loneliness** = I need you to complete me. (Dependency)
-* **Solitude** = I am complete, and I choose to share my overflow with you. (Interdependency)
+Imagine a man who has carried a heavy debt on his shoulders for 20 years. Every day, he wakes up worried about paying the interest (seeking love/validation).
+* One day, he pays off the last cent.
+* He walks out of the bank. The sky looks the same, but his feeling is completely different.
+* He feels **Light. Free. Unburdened.**
+
+This is the state of a mind that stops begging for love. You are no longer a "Love Debtor." You don't *need* anyone to survive, which ironically, makes you the most attractive person in the room because you are light and free.
 
 ## 2.3 The Root Cause: The Illusion of "Self"
 The deepest level of loneliness comes from the **Ego (Atta)**.
