@@ -91,12 +91,18 @@ Adopt the **"Guardian of Life"** mindset.
 Respect every consciousness. When you protect the smallest lives, you are proving to the Universe: *"I am a Protector, not a Destroyer."*
 The Universe (Karma) will then reflect that safety back to you. You will find yourself in relationships where you are protected, nurtured, and safe.
 
-> **Final Epilogue:**
-> You have the power to rewrite your love story.
-> Not by finding a better lover.
-> But by becoming a better "Knower."
-> **Debug your Heart. Update your Karma. And the Reality will follow.**
-
+> **Final Epilogue: Thank You, Suffering**
+>
+> Don't just forgive the past. **Thank it.**
+>
+> If you hadn't met that toxic person, you wouldn't have learned to love yourself.
+> If you hadn't been heartbroken, you wouldn't have searched for the Truth.
+>
+> Suffering was not your enemy. It was your **Sensei** (Teacher).
+> It hit you hard to wake you up from the dream of dependency.
+> Now that you are awake, bow to your teacher, say "Thank you for the lesson," and walk away into your bright future.
+>
+> **The Class is dismissed.**
 ---
 *Transcreated with Love and Logic.*
 *Pat Jojo Sadavongvivad & Gemini AI*
