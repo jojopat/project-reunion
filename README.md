@@ -2,13 +2,26 @@
 > **"Love is not random. It is a calculated result of an ancient equation we are just beginning to understand."**
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Status: Stable](https://img.shields.io/badge/Status-Stable%20Release-green.svg)]()
-[![Transcreation: Human + AI](https://img.shields.io/badge/Transcreation-Human%20%2B%20AI-blue.svg)]()
+[![Status: Global Release](https://img.shields.io/badge/Status-Global%20Release-green.svg)]()
+[![Languages: 5](https://img.shields.io/badge/Languages-TH%20|%20EN%20|%20CN%20|%20JP%20|%20ES-blue.svg)]()
+
+## 🌍 Select Your Language / Protocol Interface
+**Project Re-Union** is transcreated into different "Flavors" to match the cultural operating system of each region. Choose your preferred interface:
+
+| Flag | Language | Codename | Style / Philosophy |
+| :---: | :--- | :--- | :--- |
+| 🇹🇭 | **[Thai (Original)](th-original/)** | *The Source* | **Raw & Deep.** The original wisdom directly from the source. |
+| 🇺🇸 | **[English](en-transcreate/)** | *Scientific* | **Scientific Spirituality.** Decoding Karma using Quantum Mechanics & Logic. |
+| 🇯🇵 | **[Japanese](jp-zen/)** | *Zen-Tech* | **Zen x System Engineering.** Solving "Kodoku" (Loneliness) with minimalism. |
+| 🇨🇳 | **[Chinese](cn-modern/)** | *Tao-Tech* | **Taoism x Big Data.** Focus on "Cause & Effect" and pragmatic results. |
+| 🇪🇸 | **[Spanish](es-flamenco/)** | *Flamenco* | **Passion x Logic.** Managing high-intensity emotions with engineering precision. |
+
+---
 
 ## 🚀 Quick Start (5 Minutes)
 **New here? Don't know where to start?**
-1.  **The "Why":** Read **[Chapter 1](en-transcreate/chapter-1-decoding-love.md)** to understand the Source Code of suffering.
-2.  **The "How":** Jump to **[Chapter 6](en-transcreate/chapter-6-the-final-mirror.md)** to see the ultimate bug fix (Instant Karma Clearing).
+1.  **The "Why":** Read **Chapter 1** to understand the Source Code of suffering.
+2.  **The "How":** Jump to **Chapter 6** to see the ultimate bug fix (Instant Karma Clearing).
 3.  **The "Fix":** Pick a specific protocol below that matches your current pain.
 
 ---
@@ -33,28 +46,31 @@ This project decodes ancient wisdom (The 4 Noble Truths & Karma) into modern **"
 
 ---
 
-## 📂 The Protocol Series (Table of Contents)
-*Currently available in English (Transcreated Edition).*
+## 📂 The Universal Curriculum (Chapters 1-6)
+*All languages follow this standard structure:*
 
-| File Name | Description |
-| :--- | :--- |
-| **[Chapter 1: The Source Code of Love](en-transcreate/chapter-1-decoding-love.md)** | Why do we suffer? Understanding the "Happiness Paradox" and the Law of Emotional Gravity. |
-| **[Chapter 2: The Loneliness Protocol](en-transcreate/chapter-2-loneliness-protocol.md)** | Stop patching your void with external plugins. How to switch from "Dependency" to "Standalone Mode". |
-| **[Chapter 3: The Myth of "The One"](en-transcreate/chapter-3-the-sync-protocol.md)** | The "Right Person" is not found; they are built. The 4 Synchronization Algorithms for lasting love. |
-| **[Chapter 4: The Value Protocol](en-transcreate/chapter-4-the-value-protocol.md)** | **[CRITICAL]** Debugging the death wish. How to fix the "I am nothing" error by switching from Consumer to Creator. |
-| **[Chapter 5: The Loop Breaker](en-transcreate/chapter-5-the-loop-breaker.md)** | Escaping the Infinite Loop of heartbreak. How to rewrite your script using the Observer Patch. |
-| **[Chapter 6: The Final Mirror](en-transcreate/chapter-6-the-final-mirror.md)** | **[MUST READ]** The ultimate truth about Karma. Featuring the legendary case study: *"The Grade 5 Butterfly Effect."* |
+| Chapter | Core Concept | The "Bug" It Fixes |
+| :--- | :--- | :--- |
+| **01. The Source Code** | The Law of Emotional Gravity & Karma | *"Why do I keep meeting the same toxic people?"* |
+| **02. Loneliness Protocol** | From Dependency to Standalone Mode | *"I feel empty when I'm alone."* |
+| **03. The Sync Protocol** | Compatibility Algorithm (4 Syncs) | *"Why is he/she not 'The One'?"* |
+| **04. The Value Protocol** | **[CRITICAL]** From Consumer to Creator | *"I feel worthless / I want to disappear."* |
+| **05. The Loop Breaker** | The Observer Patch & 3 Updates | *"How do I stop this cycle of pain?"* |
+| **06. The Final Mirror** | **[GRAND FINALE]** Zero-Harm & Gratitude | *"How do I clear my Karma instantly?"* |
 
 ---
 
 ## 🛠️ The Philosophy (Why "Transcreation"?)
 We do not simply "translate" words. We **"transcreate"** meaning.
 * **Translation:** Converting language (e.g., *Karma* -> *Action*).
-* **Transcreation:** Converting context for a new culture. We explain *Karma* as **"Newton's Third Law of Emotion"** or **"Energy Resonance"** to ensure the modern reader truly *feels* the logic.
+* **Transcreation:** Converting context for a new culture.
+    * In **Japan**, we explain suffering as a *"System Bug"* and *"Kodoku"*.
+    * In **China**, we explain Karma as *"Big Data"* and *"Cloud Storage"*.
+    * In **Spain**, we explain passion as *"High Voltage"* and *"Circuit Overload"*.
 
 This project is a result of **The Trinity of Creation**:
 1.  **Human Wisdom:** The original insights from *Pat Sadavongvivad* (Jojo).
-2.  **AI Intelligence:** The transcreation power of *Gemini AI* & *Kimi*.
+2.  **AI Intelligence:** The transcreation power of *Gemini AI*.
 3.  **Universal Truth:** The timeless laws of nature that bind us all.
 
 ---
@@ -69,7 +85,7 @@ It is designed to debug *emotional patterns*, not to treat clinical mental illne
 
 ## 🤝 Contributing & License
 * **License:** [CC0 1.0 Universal (Public Domain)](http://creativecommons.org/publicdomain/zero/1.0/). Free like air and water.
-* **Contribute:** Fork this repo, translate it, or submit a Pull Request.
+* **Contribute:** Fork this repo, translate it to your language, or submit a Pull Request.
 
 ---
 *"Debug your Heart. Update your Karma. And the Reality will follow."*
