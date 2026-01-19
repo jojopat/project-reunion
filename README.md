@@ -10,7 +10,7 @@
 
 | Flag | Language | Codename | Style / Philosophy |
 | :---: | :--- | :--- | :--- |
-| 🇹🇭 | **[Thai (Original)](th-modern/)** | *The Source* | **Raw & Deep.** The original wisdom directly from the source. |
+| 🇹🇭 | **[Thai (Modern)](th-modern/)** | *The Refactor* | Ancient wisdom refactored for the modern mind. Logical & Direct. |
 | 🇺🇸 | **[English](en-transcreate/)** | *Scientific* | **Scientific Spirituality.** Decoding Karma using Quantum Mechanics & Logic. |
 | 🇯🇵 | **[Japanese](jp-zen/)** | *Zen-Tech* | **Zen x System Engineering.** Solving "Kodoku" (Loneliness) with minimalism. |
 | 🇨🇳 | **[Chinese](cn-modern/)** | *Tao-Tech* | **Taoism x Big Data.** Focus on "Cause & Effect" and pragmatic results. |
