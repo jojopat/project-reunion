@@ -29,6 +29,22 @@ No existen las coincidencias. En un universo gestionado por una base de datos ta
 * Lo atrajiste con tu **Frecuencia (Vibration)**.
 Él no es solo un amante; es un **"Espejo Caminante"** que refleja tu historial de transacciones pasadas.
 
+### 💡 La Aguja bajo la Farola (The Needle under the Streetlight)
+Hay una vieja historia que es como una bofetada de realidad:
+Una abuela busca una aguja bajo una farola a las 3 AM. Sus nietos le preguntan: "¿Dónde se te cayó?"
+Ella señala su habitación oscura: "Se cayó allá adentro".
+"¿¡Entonces por qué buscas aquí fuera!?"
+Ella responde: **"Porque aquí hay más luz."**
+
+Nos reímos, pero hacemos lo mismo.
+* Perdiste tu felicidad **Adentro (En tu Alma)**.
+* Pero la buscas **Afuera (En fiestas, en amantes)** porque es más fácil distraerse allí.
+
+**La Verdad Ardiente:**
+**"Donde está la herida, está la espina."**
+Si sientes dolor *ahora*, la causa no está en tu ex-pareja ni en el pasado. La causa está *viva y ardiendo* dentro de ti en este mismo segundo.
+Deja de buscar en la calle. Entra en la habitación oscura de tu corazón. Solo allí encontrarás lo que perdiste.
+
 ## 1.3 La Ley de la Igualdad (The Law of Equality)
 Basado en datos observados por más de 30 años (desde 1995), esta es la regla absoluta:
 **"Nunca conocemos a alguien 'mejor' que nosotros."**
