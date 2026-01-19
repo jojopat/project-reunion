@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Re-Union: The Universal Love Protocol</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --text-color: #e2e8f0;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --hover: #0ea5e9;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        header {
+            padding: 4rem 1rem;
+            max-width: 800px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(90deg, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p.subtitle {
+            font-size: 1.2rem;
+            color: #94a3b8;
+            font-style: italic;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            max-width: 1000px;
+            width: 90%;
+            padding-bottom: 4rem;
+        }
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 2rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+        }
+        .flag {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .lang-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .lang-desc {
+            font-size: 0.9rem;
+            color: #94a3b8;
+        }
+        .badge {
+            margin-top: 1rem;
+            padding: 0.25rem 0.75rem;
+            background-color: rgba(56, 189, 248, 0.1);
+            color: var(--accent);
+            border-radius: 999px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        footer {
+            margin-top: auto;
+            padding: 2rem;
+            color: #64748b;
+            font-size: 0.8rem;
+        }
+        a.readme-link {
+            color: var(--accent);
+            text-decoration: none;
+            margin-top: 2rem;
+            display: inline-block;
+            border-bottom: 1px dashed var(--accent);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Project Re-Union</h1>
+        <p class="subtitle">"Love is not random. It is a calculated result of an ancient equation."</p>
+    </header>
+
+    <div class="container">
+        <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" class="card">
+            <div class="flag">🇹🇭</div>
+            <div class="lang-title">Thai (Original)</div>
+            <div class="lang-desc">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</div>
+            <div class="badge">The Genesis</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
+            <div class="flag">🇹🇭</div>
+            <div class="lang-title">Thai (Modern)</div>
+            <div class="lang-desc">ฉบับคนรุ่นใหม่: เข้าใจง่าย เน้นตรรกะและวิทยาศาสตร์</div>
+            <div class="badge">The Refactor</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/en-transcreate" class="card">
+            <div class="flag">🇺🇸</div>
+            <div class="lang-title">English</div>
+            <div class="lang-desc">Scientific Spirituality: Karma decoded via Quantum Mechanics</div>
+            <div class="badge">Scientific</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/cn-modern" class="card">
+            <div class="flag">🇨🇳</div>
+            <div class="lang-title">Chinese</div>
+            <div class="lang-desc">Tao-Tech: Big Data Karma & Cause-Effect Logic</div>
+            <div class="badge">Tao-Tech</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/jp-zen" class="card">
+            <div class="flag">🇯🇵</div>
+            <div class="lang-title">Japanese</div>
+            <div class="lang-desc">Zen-Tech: Debugging "Kodoku" with Engineering Mindfulness</div>
+            <div class="badge">Zen-Tech</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/es-flamenco" class="card">
+            <div class="flag">🇪🇸</div>
+            <div class="lang-title">Spanish</div>
+            <div class="lang-desc">Flamenco: Managing Passion with Logic & System Architecture</div>
+            <div class="badge">Flamenco</div>
+        </a>
+    </div>
+
+    <a href="https://github.com/jojopat/project-reunion" class="readme-link">View Full Repository on GitHub</a>
+
+    <footer>
+        <p>Project Re-Union: The Universal Love Protocol<br>
+        Public Domain (CC0 1.0) | Pat Sadavongvivad x Gemini AI</p>
+    </footer>
+
+</body>
+</html>
