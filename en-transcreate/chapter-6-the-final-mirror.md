@@ -81,6 +81,30 @@ Years later, when the man fell ill and was hospitalized (while his wife was abro
 > When Karma ends, the relationship doesn't turn into hate. It turns into **Peace**.
 > You stop being "Lovers in Debt" and become "Fellow Travelers" who wish each other well.
 
+## 6.5 Case Study B: The 8-Year Miracle (The System Restore)
+*(A powerful proof that accurate debugging can fix even an 8-year-old crash)*
+
+**The Scenario:**
+A woman married into her husband's family. Soon after, the husband had an affair.
+The husband's parents strongly rejected the mistress, forcing the husband to leave his own home and live in hardship with the mistress.
+**Status:** Separated for **8 years**. The wife lived in misery, believing: *"I am 100% right. He is 100% wrong."*
+
+**The Debugging:**
+A friend gave her the book *"It Happened Because of Love."* She read it in one sitting and realized the Ultimate Truth:
+**"Nothing happens randomly. If I am suffering this specific pain, I must have done this exact same thing to someone else in the past (in this life or a previous one)."**
+
+**The Pivot:**
+The next morning, she called her husband (whom she hadn't forgiven for 8 years) to **Apologize**.
+*"I am sorry. For 8 years, I blamed you 100%."*
+*"I now realize that this happened because of me. **I must have committed this exact same karma to someone else before**, so it has returned to me. I accept my karma. Please forgive me."*
+
+**The Result:**
+The husband was stunned. He expected anger but received an apology. His "Wall of Guilt" crumbled, and he apologized for his infidelity.
+She forgave him completely because she no longer saw him as a "Villain," but as a "Mirror."
+
+**System Restored:**
+A few months later, **the husband and the mistress separated amicably** (without drama). The Karmic Debt was paid, so the "Third Party" (the instrument of karma) was automatically removed by the system. The husband returned home, and they are now a happy family.
+
 **All Life is Connected.**
 Every living being—from an ant to an elephant—runs on the same OS: **The will to live.**
 * When you cut a life short (kill), you are not just ending a biology. You are generating a shockwave of **Terror and Vengeance.**
