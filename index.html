@@ -11,6 +11,7 @@
             --card-bg: #1e293b;
             --accent: #38bdf8;
             --hover: #0ea5e9;
+            --pdf-btn: #f43f5e;
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -59,7 +60,8 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            min-height: 250px; /* เพิ่มความสูงขั้นต่ำให้เท่ากัน */
+            min-height: 250px;
+            position: relative;
         }
         .card:hover {
             transform: translateY(-5px);
@@ -79,16 +81,17 @@
             font-size: 0.9rem;
             color: #94a3b8;
             line-height: 1.5;
+            margin-bottom: 1rem;
         }
         .native-text {
             display: block;
             margin-top: 0.5rem;
             font-size: 0.85rem;
-            color: #38bdf8; /* สีฟ้าให้ดูเด่นขึ้นมานิดนึง */
+            color: #38bdf8;
             opacity: 0.9;
         }
         .badge {
-            margin-top: auto; /* ดัน Badge ลงล่างสุด */
+            margin-top: auto;
             padding: 0.25rem 0.75rem;
             background-color: rgba(56, 189, 248, 0.1);
             color: var(--accent);
@@ -97,6 +100,26 @@
             text-transform: uppercase;
             letter-spacing: 1px;
         }
+        
+        /* ปุ่ม PDF พิเศษ */
+        .pdf-link {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.4rem 1rem;
+            background-color: rgba(244, 63, 94, 0.15);
+            color: #fb7185;
+            border: 1px solid #fb7185;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            text-decoration: none;
+            transition: all 0.2s;
+            font-weight: bold;
+        }
+        .pdf-link:hover {
+            background-color: #f43f5e;
+            color: white;
+        }
+
         footer {
             margin-top: auto;
             padding: 2rem;
@@ -120,15 +143,18 @@
     </header>
 
     <div class="container">
-        <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" class="card">
-            <div class="flag">🇹🇭</div>
-            <div class="lang-title">Thai (Original)</div>
-            <div class="lang-desc">
-                The Genesis: Raw & Deep Wisdom<br>
-                <span class="native-text">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</span>
-            </div>
-            <div class="badge">The Genesis</div>
-        </a>
+        <div class="card" style="cursor: default;">
+            <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" style="text-decoration: none; color: inherit; display: contents;">
+                <div class="flag">🇹🇭</div>
+                <div class="lang-title">Thai (Original)</div>
+                <div class="lang-desc">
+                    The Genesis: Raw & Deep Wisdom<br>
+                    <span class="native-text">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</span>
+                </div>
+            </a>
+            <a href="เหตุเกิดจากความรัก%20single%20page.pdf" class="pdf-link" target="_blank">📄 Download PDF Book</a>
+            <div class="badge" style="margin-top: 1rem;">The Genesis</div>
+        </div>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
             <div class="flag">🇹🇭</div>
@@ -181,11 +207,11 @@
         </a>
     </div>
 
-    <a href="https://github.com/jojopat/project-reunion" class="readme-link">View Full Repository on GitHub</a>
+    <a href="https://github.com/jojopat/project-reunion" class="readme-link">View Full Source Code & License on GitHub</a>
 
     <footer>
         <p>Project Re-Union: The Universal Love Protocol<br>
-        Public Domain (CC0 1.0) | Pat Sadavongvivad x Gemini AI</p>
+        <span style="opacity: 0.7;">Public Domain (CC0 1.0) | Pat Sadavongvivad x Gemini AI</span></p>
     </footer>
 
 </body>
