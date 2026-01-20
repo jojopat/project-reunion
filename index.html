@@ -59,6 +59,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
+            min-height: 250px; /* เพิ่มความสูงขั้นต่ำให้เท่ากัน */
         }
         .card:hover {
             transform: translateY(-5px);
@@ -77,9 +78,17 @@
         .lang-desc {
             font-size: 0.9rem;
             color: #94a3b8;
+            line-height: 1.5;
+        }
+        .native-text {
+            display: block;
+            margin-top: 0.5rem;
+            font-size: 0.85rem;
+            color: #38bdf8; /* สีฟ้าให้ดูเด่นขึ้นมานิดนึง */
+            opacity: 0.9;
         }
         .badge {
-            margin-top: 1rem;
+            margin-top: auto; /* ดัน Badge ลงล่างสุด */
             padding: 0.25rem 0.75rem;
             background-color: rgba(56, 189, 248, 0.1);
             color: var(--accent);
@@ -114,42 +123,60 @@
         <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" class="card">
             <div class="flag">🇹🇭</div>
             <div class="lang-title">Thai (Original)</div>
-            <div class="lang-desc">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</div>
+            <div class="lang-desc">
+                The Genesis: Raw & Deep Wisdom<br>
+                <span class="native-text">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</span>
+            </div>
             <div class="badge">The Genesis</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
             <div class="flag">🇹🇭</div>
             <div class="lang-title">Thai (Modern)</div>
-            <div class="lang-desc">ฉบับคนรุ่นใหม่: เข้าใจง่าย เน้นตรรกะและวิทยาศาสตร์</div>
+            <div class="lang-desc">
+                The Refactor: Logic for Modern Minds<br>
+                <span class="native-text">ฉบับคนรุ่นใหม่: เน้นตรรกะและวิทยาศาสตร์</span>
+            </div>
             <div class="badge">The Refactor</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/en-transcreate" class="card">
             <div class="flag">🇺🇸</div>
             <div class="lang-title">English</div>
-            <div class="lang-desc">Scientific Spirituality: Karma decoded via Quantum Mechanics</div>
+            <div class="lang-desc">
+                Scientific Spirituality<br>
+                <span class="native-text">Decoding Karma via Quantum Mechanics</span>
+            </div>
             <div class="badge">Scientific</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/cn-modern" class="card">
             <div class="flag">🇨🇳</div>
-            <div class="lang-title">Chinese</div>
-            <div class="lang-desc">Tao-Tech: Big Data Karma & Cause-Effect Logic</div>
+            <div class="lang-title">Chinese (中文)</div>
+            <div class="lang-desc">
+                Tao-Tech: Big Data Karma Logic<br>
+                <span class="native-text">道技术：大数据业力与因果逻辑</span>
+            </div>
             <div class="badge">Tao-Tech</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/jp-zen" class="card">
             <div class="flag">🇯🇵</div>
-            <div class="lang-title">Japanese</div>
-            <div class="lang-desc">Zen-Tech: Debugging "Kodoku" with Engineering Mindfulness</div>
+            <div class="lang-title">Japanese (日本語)</div>
+            <div class="lang-desc">
+                Zen-Tech: Debugging "Kodoku"<br>
+                <span class="native-text">禅テック：エンジニアリング思考で「孤独」をデバッグする</span>
+            </div>
             <div class="badge">Zen-Tech</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/es-flamenco" class="card">
             <div class="flag">🇪🇸</div>
-            <div class="lang-title">Spanish</div>
-            <div class="lang-desc">Flamenco: Managing Passion with Logic & System Architecture</div>
+            <div class="lang-title">Spanish (Español)</div>
+            <div class="lang-desc">
+                Flamenco: Passion x System Logic<br>
+                <span class="native-text">Pasión y Lógica: Arquitectura del Amor</span>
+            </div>
             <div class="badge">Flamenco</div>
         </a>
     </div>
