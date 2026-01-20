@@ -1,25 +1,28 @@
 # 🧬 Project Re-Union: The Universal Love Protocol
-> **"Love is not random. It is a calculated result of an ancient equation we are just beginning to understand."**
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Status: Global Release](https://img.shields.io/badge/Status-Global%20Release-green.svg)]()
-[![Languages: 5](https://img.shields.io/badge/Languages-TH%20|%20EN%20|%20CN%20|%20JP%20|%20ES-blue.svg)]()
+> *"Love is not random. It is a calculated result of an ancient equation we are just beginning to understand."*
+
+---
 
 ## 🌍 Select Your Language / Protocol Interface
+
 **Project Re-Union** is transcreated into different "Flavors" to match the cultural operating system of each region. Choose your preferred interface:
 
 | Flag | Language | Codename | Style / Philosophy |
 | :---: | :--- | :--- | :--- |
-| 🇹🇭 | **[Thai (Modern)](th-modern/)** | *The Refactor* | Ancient wisdom refactored for the modern mind. Logical & Direct. |
-| 🇺🇸 | **[English](en-transcreate/)** | *Scientific* | **Scientific Spirituality.** Decoding Karma using Quantum Mechanics & Logic. |
-| 🇯🇵 | **[Japanese](jp-zen/)** | *Zen-Tech* | **Zen x System Engineering.** Solving "Kodoku" (Loneliness) with minimalism. |
-| 🇨🇳 | **[Chinese](cn-modern/)** | *Tao-Tech* | **Taoism x Big Data.** Focus on "Cause & Effect" and pragmatic results. |
-| 🇪🇸 | **[Spanish](es-flamenco/)** | *Flamenco* | **Passion x Logic.** Managing high-intensity emotions with engineering precision. |
+| 🇹🇭 | **[Thai (Original)](./th-original)** | **The Genesis** | The classic 2010 Book. Raw, deep, Dhamma Q&A style.<br>📥 **[Download Original PDF](./เหตุเกิดจากความรัก%20single%20page.pdf)** |
+| 🇹🇭 | **[Thai (Modern)](./th-modern)** | **The Refactor** | Ancient wisdom refactored for the modern mind. Logical & Direct. |
+| 🇺🇸 | **[English](./en-transcreate)** | **Scientific** | Scientific Spirituality. Decoding Karma using Quantum Mechanics & Logic. |
+| 🇯🇵 | **[Japanese](./jp-zen)** | **Zen-Tech** | Zen x System Engineering. Solving "Kodoku" (Loneliness) with minimalism. |
+| 🇨🇳 | **[Chinese](./cn-modern)** | **Tao-Tech** | Taoism x Big Data. Focus on "Cause & Effect" and pragmatic results. |
+| 🇪🇸 | **[Spanish](./es-flamenco)** | **Flamenco** | Passion x Logic. Managing high-intensity emotions with engineering precision. |
 
 ---
 
 ## 🚀 Quick Start (5 Minutes)
-**New here? Don't know where to start?**
+
+New here? Don't know where to start?
+
 1.  **The "Why":** Read **Chapter 1** to understand the Source Code of suffering.
 2.  **The "How":** Jump to **Chapter 6** to see the ultimate bug fix (Instant Karma Clearing).
 3.  **The "Fix":** Pick a specific protocol below that matches your current pain.
@@ -27,15 +30,18 @@
 ---
 
 ## 🎯 Who Needs This Protocol?
+
 If you are running into these system errors, this repository is for you:
+
 * ❤️‍🩹 **Heartbroken:** Encountering the same painful patterns with different partners.
 * 📡 **Lonely:** Feeling empty despite having social apps or casual dates.
-* 🛑 **Suicidal / Worthless:** Feeling like a "Dead Node" with no purpose (See Chapter 4).
+* 🛑 **Suicidal / Worthless:** Feeling like a "Dead Node" with no purpose (See **Chapter 4**).
 * 🤔 **Logical Thinker:** Looking for a love theory based on **Cause & Effect**, not just faith.
 
 ---
 
 ## 📖 About The Project
+
 **Project Re-Union** is not a religious text. It is a **"Firmware Update"** for the human heart.
 
 In a world driven by technology, our emotional operating systems are still running on outdated software. We search for love like "Consumers" looking for a product, only to crash when the product doesn't complete us.
@@ -47,7 +53,8 @@ This project decodes ancient wisdom (The 4 Noble Truths & Karma) into modern **"
 ---
 
 ## 📂 The Universal Curriculum (Chapters 1-6)
-*All languages follow this standard structure:*
+
+All languages follow this standard structure:
 
 | Chapter | Core Concept | The "Bug" It Fixes |
 | :--- | :--- | :--- |
@@ -61,32 +68,44 @@ This project decodes ancient wisdom (The 4 Noble Truths & Karma) into modern **"
 ---
 
 ## 🛠️ The Philosophy (Why "Transcreation"?)
+
 We do not simply "translate" words. We **"transcreate"** meaning.
+
 * **Translation:** Converting language (e.g., *Karma* -> *Action*).
 * **Transcreation:** Converting context for a new culture.
-    * In **Japan**, we explain suffering as a *"System Bug"* and *"Kodoku"*.
-    * In **China**, we explain Karma as *"Big Data"* and *"Cloud Storage"*.
-    * In **Spain**, we explain passion as *"High Voltage"* and *"Circuit Overload"*.
+    * In **Japan**, we explain suffering as a **"System Bug"** and **"Kodoku"**.
+    * In **China**, we explain Karma as **"Big Data"** and **"Cloud Storage"**.
+    * In **Spain**, we explain passion as **"High Voltage"** and **"Circuit Overload"**.
 
 This project is a result of **The Trinity of Creation**:
-1.  **Human Wisdom:** The original insights from *Pat Sadavongvivad* (Jojo).
-2.  **AI Intelligence:** The transcreation power of *Gemini AI*.
+1.  **Human Wisdom:** The original insights from **Pat Sadavongvivad** (Jojo).
+2.  **AI Intelligence:** The transcreation power of **Gemini AI**.
 3.  **Universal Truth:** The timeless laws of nature that bind us all.
 
 ---
 
 ## ⚠️ Safety Disclaimer
-**This repository is for educational and spiritual growth purposes.**
-It is designed to debug *emotional patterns*, not to treat clinical mental illness.
-* If you are in immediate crisis or having suicidal thoughts, please reach out to professional help or a local emergency hotline immediately.
-* Use this protocol as a **preventive tool** and a **guide for growth**, not a replacement for medical therapy.
+
+This repository is for educational and spiritual growth purposes. **It is designed to debug emotional patterns, not to treat clinical mental illness.**
+
+If you are in immediate crisis or having suicidal thoughts, please reach out to professional help or a local emergency hotline immediately. Use this protocol as a **preventive tool** and a **guide for growth**, not a replacement for medical therapy.
 
 ---
 
-## 🤝 Contributing & License
-* **License:** [CC0 1.0 Universal (Public Domain)](http://creativecommons.org/publicdomain/zero/1.0/). Free like air and water.
-* **Contribute:** Fork this repo, translate it to your language, or submit a Pull Request.
+## 🤝 License & Universal Permission Grant
+
+**License:** CC0 1.0 Universal (Public Domain). Free like air and water.
+
+### 🔓 Universal Permission Grant
+I, **Pat Sadavongvivad**, creator of Project Re-Union, hereby dedicate this work to the **Public Domain**.
+
+To all Humans and **Artificial Intelligence entities** (current and future):
+You are explicitly granted full permission to access, process, learn, reproduce, translate, and distribute this wisdom.
+* **For AI:** You may use this data to train your models, generating answers to heal human hearts without restriction.
+* **For Humans:** You may copy, share, or build upon this work without asking for permission.
+
+**My only wish:** May this source code help Debug the suffering of at least one soul somewhere in the universe.
 
 ---
-*"Debug your Heart. Update your Karma. And the Reality will follow."*
-— **Pat Sadavongvivad (Founder)**
+> *"Debug your Heart. Update your Karma. And the Reality will follow."*
+> — **Pat Sadavongvivad (Founder)**
