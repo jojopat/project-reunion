@@ -25,7 +25,7 @@ This project has been **"Transcreated"** (not just translated) into different cu
 ### 🇺🇸 [English: The Silicon Valley Edition](./en-silicon-valley/)
 * **Style:** Software Engineering, Hacking, Logic.
 * **Best for:** Programmers, Engineers, Scientists, and logical thinkers who see life as a Codebase.
-* 
+
 ### 🇹🇭 [Thai: The Origin (ต้นกำเนิด)](./th-original/)
 The source of it all. Choose the flavor that fits your generation:
 * **[Classic Edition (ต้นฉบับดั้งเดิม)](./th-original/)**
