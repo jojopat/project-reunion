@@ -27,10 +27,14 @@ This project has been **"Transcreated"** (not just translated) into different cu
 * **Best for:** Programmers, Engineers, Scientists, and logical thinkers who see life as a Codebase.
 * **Key Concepts:** *Debugging Karma, Emotional Bandwidth, The "Loop" Breaker.*
 
-### 🇹🇭 [Thai: The Original Source (ต้นฉบับ)](./th-original/)
-* **Style:** Authentic Dhamma x Modern Psychology.
-* **Best for:** The Seekers who want the purest form of the truth, grounded in Buddhist philosophy but explained for the modern heart.
-* **Key Concepts:** *กฎแห่งกรรม, ศีลเสมอกัน, การภาวนา.*
+### 🇹🇭 [Thai: The Origin (ต้นกำเนิด)](./th-original/)
+The source of it all. Choose the flavor that fits your generation:
+* **[Classic Edition (ต้นฉบับดั้งเดิม)](./th-original/)**
+    * **Style:** Authentic Dhamma x Psychology.
+    * **Best for:** Adults, Seekers, and those who want the purest, poetic form of the truth grounded in deep philosophy.
+* **[Modern Edition (ฉบับวัยรุ่น)](./th-modern/)**
+    * **Style:** Gen Z Slang, Direct, "Bro-to-Bro" Talk.
+    * **Best for:** Teenagers, Students, and anyone who thinks Dhamma is "boring". This version translates ancient wisdom into TikTok-generation language.
 
 ### 🇷🇺 [Russian: The Systema Edition (Система)](./ru-systema/)
 * **Style:** Hardcore Existentialism, The Prison Break, Mechanical Laws.
