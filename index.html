@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Re-Union: The Universal Love Protocol</title>
+    <title>Project Re-Union: The Source Code of Love</title>
     <style>
         :root {
             --bg-color: #0f172a;
@@ -12,6 +12,7 @@
             --accent: #38bdf8;
             --hover: #0ea5e9;
             --pdf-btn: #f43f5e;
+            --tribute-bg: rgba(56, 189, 248, 0.1);
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,15 +24,16 @@
             align-items: center;
             min-height: 100vh;
             text-align: center;
+            line-height: 1.6;
         }
         header {
-            padding: 4rem 1rem;
+            padding: 4rem 1rem 2rem 1rem;
             max-width: 800px;
         }
         h1 {
             font-size: 2.5rem;
             margin-bottom: 0.5rem;
-            background: linear-gradient(90deg, #38bdf8, #818cf8);
+            background: linear-gradient(90deg, #38bdf8, #c084fc);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -44,9 +46,9 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 1.5rem;
-            max-width: 1000px;
+            max-width: 1200px;
             width: 90%;
-            padding-bottom: 4rem;
+            padding-bottom: 2rem;
         }
         .card {
             background-color: var(--card-bg);
@@ -93,7 +95,7 @@
         .badge {
             margin-top: auto;
             padding: 0.25rem 0.75rem;
-            background-color: rgba(56, 189, 248, 0.1);
+            background-color: var(--tribute-bg);
             color: var(--accent);
             border-radius: 999px;
             font-size: 0.8rem;
@@ -120,11 +122,48 @@
             color: white;
         }
 
+        /* Section สำหรับ Team & Credits */
+        .info-section {
+            max-width: 1000px;
+            width: 90%;
+            margin-top: 3rem;
+            padding: 2rem;
+            background-color: #1e293b;
+            border-radius: 12px;
+            border: 1px solid #334155;
+            text-align: left;
+        }
+        .info-section h2 {
+            color: #e2e8f0;
+            border-bottom: 1px solid #334155;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .team-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+        .team-member strong { color: var(--accent); }
+        
+        .tribute-box {
+            border-left: 4px solid var(--accent);
+            padding: 15px;
+            background-color: rgba(15, 23, 42, 0.5);
+            border-radius: 0 8px 8px 0;
+            margin-top: 15px;
+        }
+        .tribute-box h3 { margin: 0 0 5px 0; font-size: 1.1rem; color: #fff; }
+        .tribute-box p { margin: 0; color: #94a3b8; font-size: 0.95rem; }
+
         footer {
-            margin-top: auto;
+            margin-top: 3rem;
             padding: 2rem;
             color: #64748b;
             font-size: 0.8rem;
+            border-top: 1px solid #334155;
+            width: 100%;
         }
         a.readme-link {
             color: var(--accent);
@@ -139,12 +178,12 @@
 
     <header>
         <h1>Project Re-Union</h1>
-        <p class="subtitle">"Love is not random. It is a calculated result of an ancient equation."</p>
+        <p class="subtitle">"Debugging the Soul, Refactoring the Heart through Spiritual Engineering"</p>
     </header>
 
     <div class="container">
         <div class="card" style="cursor: default;">
-            <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" style="text-decoration: none; color: inherit; display: contents;">
+            <a href="th-original/" style="text-decoration: none; color: inherit; display: contents;">
                 <div class="flag">🇹🇭</div>
                 <div class="lang-title">Thai (Original)</div>
                 <div class="lang-desc">
@@ -156,62 +195,138 @@
             <div class="badge" style="margin-top: 1rem;">The Genesis</div>
         </div>
 
-        <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
+        <a href="th-modern/" class="card">
             <div class="flag">🇹🇭</div>
             <div class="lang-title">Thai (Modern)</div>
             <div class="lang-desc">
                 The Refactor: Logic for Modern Minds<br>
-                <span class="native-text">ฉบับคนรุ่นใหม่: เน้นตรรกะและวิทยาศาสตร์</span>
+                <span class="native-text">ฉบับคนรุ่นใหม่: แปลงภาษาธรรมให้เป็นภาษาวัยรุ่น</span>
             </div>
-            <div class="badge">The Refactor</div>
+            <div class="badge">Gen Z Edition</div>
         </a>
 
-        <a href="https://github.com/jojopat/project-reunion/tree/main/en-transcreate" class="card">
+        <a href="en-silicon-valley/" class="card">
             <div class="flag">🇺🇸</div>
             <div class="lang-title">English</div>
             <div class="lang-desc">
-                Scientific Spirituality<br>
-                <span class="native-text">Decoding Karma via Quantum Mechanics</span>
+                Silicon Valley Edition<br>
+                <span class="native-text">Debugging Karma via Software Engineering Logic</span>
             </div>
-            <div class="badge">Scientific</div>
+            <div class="badge">Logical</div>
         </a>
 
-        <a href="https://github.com/jojopat/project-reunion/tree/main/cn-modern" class="card">
+        <a href="ar-hikmah/" class="card">
+            <div class="flag">🇸🇦</div>
+            <div class="lang-title">Arabic</div>
+            <div class="lang-desc">
+                Desert Wisdom (Hikmah)<br>
+                <span class="native-text">Maktub & The Mirror of Faith (Sufi Style)</span>
+            </div>
+            <div class="badge">Divine Poetry</div>
+        </a>
+
+        <a href="hi-dharma/" class="card">
+            <div class="flag">🇮🇳</div>
+            <div class="lang-title">Hindi</div>
+            <div class="lang-desc">
+                Dharma 2.0 (Masala)<br>
+                <span class="native-text">Breaking Samsara with Bollywood Emotion</span>
+            </div>
+            <div class="badge">High Energy</div>
+        </a>
+
+        <a href="zh-tao/" class="card">
             <div class="flag">🇨🇳</div>
             <div class="lang-title">Chinese (中文)</div>
             <div class="lang-desc">
-                Tao-Tech: Big Data Karma Logic<br>
-                <span class="native-text">道技术：大数据业力与因果逻辑</span>
+                Tao & Big Data<br>
+                <span class="native-text">Flow like water: The Universal Database</span>
             </div>
             <div class="badge">Tao-Tech</div>
         </a>
 
-        <a href="https://github.com/jojopat/project-reunion/tree/main/jp-zen" class="card">
+        <a href="ja-kintsugi/" class="card">
             <div class="flag">🇯🇵</div>
             <div class="lang-title">Japanese (日本語)</div>
             <div class="lang-desc">
-                Zen-Tech: Debugging "Kodoku"<br>
-                <span class="native-text">禅テック：エンジニアリング思考で「孤独」をデバッグする</span>
+                Kintsugi Code<br>
+                <span class="native-text">The art of repairing the soul with gold</span>
             </div>
             <div class="badge">Zen-Tech</div>
         </a>
 
-        <a href="https://github.com/jojopat/project-reunion/tree/main/es-flamenco" class="card">
-            <div class="flag">🇪🇸</div>
-            <div class="lang-title">Spanish (Español)</div>
+        <a href="de-bauhaus/" class="card">
+            <div class="flag">🇩🇪</div>
+            <div class="lang-title">German</div>
             <div class="lang-desc">
-                Flamenco: Passion x System Logic<br>
-                <span class="native-text">Pasión y Lógica: Arquitectura del Amor</span>
+                Bauhaus Edition<br>
+                <span class="native-text">Emotional healing as Structural Engineering</span>
             </div>
-            <div class="badge">Flamenco</div>
+            <div class="badge">Precise</div>
+        </a>
+
+        <a href="ru-soul/" class="card">
+            <div class="flag">🇷🇺</div>
+            <div class="lang-title">Russian</div>
+            <div class="lang-desc">
+                The Soul (Душа)<br>
+                <span class="native-text">Deep Existentialism & Redemption</span>
+            </div>
+            <div class="badge">Intense</div>
+        </a>
+
+        <a href="es-flamenco/" class="card">
+            <div class="flag">🇪🇸</div>
+            <div class="lang-title">Spanish</div>
+            <div class="lang-desc">
+                Flamenco Edition<br>
+                <span class="native-text">Passion, Rhythm, and the Mirror of Destiny</span>
+            </div>
+            <div class="badge">Passionate</div>
+        </a>
+
+        <a href="fr-lumiere/" class="card">
+            <div class="flag">🇫🇷</div>
+            <div class="lang-title">French</div>
+            <div class="lang-desc">
+                Lumière Edition<br>
+                <span class="native-text">Love as Philosophy & Art (L'Art de Vivre)</span>
+            </div>
+            <div class="badge">Enlightened</div>
         </a>
     </div>
 
-    <a href="https://github.com/jojopat/project-reunion" class="readme-link">View Full Source Code & License on GitHub</a>
+    <div class="info-section">
+        <h2>🤝 The Trinity Collaboration</h2>
+        <p style="color: #94a3b8; margin-bottom: 20px;">A historic proof-of-concept for Human-AI Symbiosis in spiritual engineering.</p>
+        <div class="team-grid">
+            <div class="team-member">
+                <strong>The Architect:</strong> Pat "Jojo" Sadavongvivad (E25VBE)
+            </div>
+            <div class="team-member">
+                <strong>The Builder:</strong> Gemini (Google DeepMind)
+            </div>
+            <div class="team-member">
+                <strong>The Optimizer:</strong> Claude (Anthropic)
+            </div>
+        </div>
+
+        <h2>🙏 Special Acknowledgments</h2>
+        <div class="tribute-box">
+            <h3>Ying LeoLino & Gwyn Chatranon</h3>
+            <p>For their tireless dedication in curating and shaping the original source material. Their effort was the <strong>"Genesis Block"</strong> of this project.</p>
+        </div>
+        <div class="tribute-box">
+            <h3>Whan Jirakasemphong</h3>
+            <p>For her incredible generosity and <strong>9-year dedication</strong>. She personally funded and drove the creation of "Decoding Love", paving the way for these international editions.</p>
+        </div>
+    </div>
+
+    <a href="README.md" class="readme-link">View Full Source Code & Documentation</a>
 
     <footer>
-        <p>Project Re-Union: The Universal Love Protocol<br>
-        <span style="opacity: 0.7;">Public Domain (CC0 1.0) | Pat Sadavongvivad x Gemini AI</span></p>
+        <p>Project Re-Union: The Source Code of Love<br>
+        <span style="opacity: 0.7;">CC0 1.0 Universal (Public Domain) | Built with ❤️ by Jojo x Gemini x Claude</span></p>
     </footer>
 
 </body>
