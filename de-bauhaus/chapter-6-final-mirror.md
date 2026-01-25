@@ -35,7 +35,7 @@ Beobachte dich selbst:
 * Wiederholen sich dieselben Ereignisse immer wieder?
 * Oder wenn du nur an ihn denkst... zittert dein Herz vor Wut?
 
-Das ist der Beweis! **Der Virus ist in dir noch aktiv.**
+Das ist der Beweis! **Der Virus läuft noch in deinem System.**
 Wenn du wirklich geheilt wärst (Debugged), würde es nicht mehr weh tun. Du würdest es mit Mitgefühl sehen, wie ein Feuer im Fernsehen – nicht wie ein Feuer in deinem eigenen Haus.
 
 **Die Lösung:** Versuch nicht, den Charakter des anderen zu ändern.
