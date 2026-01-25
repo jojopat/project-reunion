@@ -108,3 +108,12 @@ Quand vous offrez la sécurité aux autres... l'Univers vous renvoie la sécurit
 > **Épilogue :**
 > Vous avez le pouvoir d'écrire un nouveau roman d'amour.
 > **Déboguez votre Cœur. Mettez à jour votre Karma. Et la réalité devant vous changera instantanément.**
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
