@@ -130,3 +130,12 @@ The Universe (Karma) will then reflect that safety back to you. You will find yo
 ---
 *Transcreated with Love and Logic.*
 *Pat Jojo Sadavongvivad & Gemini AI*
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
