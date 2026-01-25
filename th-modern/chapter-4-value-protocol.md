@@ -114,3 +114,12 @@ license: "CC0 1.0 Universal (Public Domain)"
 > ทางรักษาไม่ใช่การหาของมาเติม แต่คือการเปลี่ยนตัวเองเป็น "ผู้ผลิต" (Creator)
 > **จำไว้ครับ... คุณไม่ได้มีชีวิตอยู่เพื่อให้คนมารัก แต่คุณมีชีวิตอยู่ เพื่อที่จะมอบความรักให้โลก**
 > (เหมือนที่พี่โจ้ช่วยคน 350 เคส จนจักรวาลยอมรับและส่งคู่แท้มาให้นั่นแหละครับ)
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
