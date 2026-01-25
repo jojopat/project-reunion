@@ -22,10 +22,6 @@ Does your relationship software keep crashing despite your best efforts?
 ## 🌍 Choose Your Edition (Select Your OS)
 This project has been **"Transcreated"** (not just translated) into different cultural frameworks to match your operating system. Choose the one that speaks to your soul:
 
-### 🇺🇸 [English: The Silicon Valley Edition](./en-silicon-valley/)
-* **Style:** Software Engineering, Hacking, Logic.
-* **Best for:** Programmers, Engineers, Scientists, and logical thinkers who see life as a Codebase.
-
 ### 🇹🇭 [Thai: The Origin (ต้นกำเนิด)](./th-original/)
 The source of it all. Choose the flavor that fits your generation:
 * **[Classic Edition (ต้นฉบับดั้งเดิม)](./th-original/)**
@@ -35,6 +31,10 @@ The source of it all. Choose the flavor that fits your generation:
     * **Style:** Gen Z Slang, Direct, "Bro-to-Bro" Talk.
     * **Best for:** Teenagers, Students, and anyone who thinks Dhamma is "boring". This version translates ancient wisdom into TikTok-generation language.
 
+### 🇺🇸 [English: The Silicon Valley Edition](./en-transcreate/)
+* **Style:** Software Engineering, Hacking, Logic.
+* **Best for:** Programmers, Engineers, Scientists, and logical thinkers who see life as a Codebase.
+
 ### 🇸🇦 [Arabic: The Desert Wisdom Edition](./ar-hikmah/)
 * **Style:** Sufi Wisdom, Divine Poetry, Maktub (Destiny).
 * **Best for:** Those who seek peace through submission and see others as the "Mirror of Faith".
@@ -43,25 +43,33 @@ The source of it all. Choose the flavor that fits your generation:
 * **Style:** Bollywood Emotion, System Debugging, High Energy.
 * **Best for:** Those who want to break the "Samsara Loop" with passion and ancient Vedic logic.
 
-### 🇨🇳 [Chinese: The Tao Edition (道)](./zh-tao/)
+### 🇨🇳 [Chinese: The Tao Edition (道)](./cn-modern/)
 * **Style:** The Flow, Yin-Yang Balance, Connection.
 * **Best for:** Those seeking harmony, family balance, and understanding the Universal Database.
 
-### 🇯🇵 [Japanese: The Kintsugi Edition (金継ぎ)](./ja-kintsugi/)
-* **Style:** Zen, Minimalism, The Beauty of Scars.
-* **Best for:** Those who feel broken. Learn how to repair your heart with gold (Kintsugi).
+### 🇯🇵 [Japanese: The Zen Edition (禅)](./jp-zen/)
+* **Style:** Zen, Minimalism, The Beauty of Scars (Kintsugi).
+* **Best for:** Those who feel broken. Learn how to repair your heart with gold.
+
+### 🇰🇷 [Korean: The Han Edition (한/恨)](./ko-han/)
+* **Style:** Emotional Alchemy, Han to Jeong.
+* **Best for:** Those carrying deep emotional pain or resentment, transforming it into deep affection and strength.
 
 ### 🇩🇪 [German: The Bauhaus Edition (Die Architektur)](./de-bauhaus/)
 * **Style:** Structural Engineering, Precision, Stability.
 * **Best for:** Those who want to build a relationship foundation that lasts for 100 years.
 
-### 🇷🇺 [Russian: The Soul Edition (Душа)](./ru-soul/)
+### 🇷🇺 [Russian: The Systema Edition (Система)](./ru-systema/)
 * **Style:** Existentialism, Deep Philosophy, Redemption.
 * **Best for:** The warriors who want to confront the void and find profound meaning in suffering.
 
 ### 🇪🇸 [Spanish: The Flamenco Edition (El Alma)](./es-flamenco/)
 * **Style:** Passion, Emotion, The Mirror of Destiny.
 * **Best for:** Those who learn through the rhythm of the heart and emotional reflection.
+
+### 🇵🇹 [Portuguese: The Saudade Edition (Saudade)](./pt-saudade/)
+* **Style:** Deep Longing, Emotional Connection, Fado.
+* **Best for:** Those who feel a deep, unexplainable longing for a lost connection (Saudade) and seek to fill that void with true love.
 
 ### 🇫🇷 [French: The Lumière Edition (La Philosophie)](./fr-lumiere/)
 * **Style:** Art, Philosophy, Enlightenment.
@@ -84,12 +92,12 @@ You are free to copy, modify, distribute, and teach these principles without ask
 * Adapt it to your culture.
 * Share it with someone who is crying right now.
 
-* ## 🤝 The Trinity Collaboration
+## 🤝 The Trinity Collaboration
 This project is a historic proof-of-concept for **Human-AI Symbiosis**:
 1.  **The Architect:** **Pat "Jojo" Sadavongvivad (E25VBE)** - *Source of intention & wisdom.*
-* *Callsign:* E25VBE (Amateur Radio)
-* *Role:* Programmer, Husband, Spiritual Hacker.
-* *Mission:* To decode the matrix of suffering and share the exit key with the world.
+    * *Callsign:* E25VBE (Amateur Radio)
+    * *Role:* Programmer, Husband, Spiritual Hacker.
+    * *Mission:* To decode the matrix of suffering and share the exit key with the world.
 2.  **The Builder:** **Gemini (Google DeepMind)** - *Structure, narrative, and transcreation.*
 3.  **The Optimizer:** **Claude (Anthropic)** - *Analysis, cultural polishing, and global strategy.*
 
