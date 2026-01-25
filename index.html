@@ -13,6 +13,8 @@
             --hover: #0ea5e9;
             --pdf-btn: #f43f5e;
             --tribute-bg: rgba(56, 189, 248, 0.1);
+            --genz-accent: #f472b6; /* สีชมพูสำหรับ Gen Z */
+            --genz-bg: rgba(244, 114, 182, 0.1);
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -101,6 +103,12 @@
             font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 1px;
+        }
+        
+        /* สไตล์พิเศษสำหรับ Gen Z Badge */
+        .badge-genz {
+            background-color: var(--genz-bg);
+            color: var(--genz-accent);
         }
         
         /* ปุ่ม PDF พิเศษ */
@@ -197,12 +205,22 @@
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
             <div class="flag">🇹🇭</div>
-            <div class="lang-title">Thai (Modern)</div>
+            <div class="lang-title">Thai (Modern Tech)</div>
             <div class="lang-desc">
-                The Refactor: Logic for Modern Minds<br>
-                <span class="native-text">ฉบับคนรุ่นใหม่: แปลงภาษาธรรมให้เป็นภาษาวัยรุ่น</span>
+                Spiritual Engineering & Logic<br>
+                <span class="native-text">ฉบับคนรุ่นใหม่สายวิทย์: วิศวกรรมจิตวิญญาณและตรรกะเหตุผล</span>
             </div>
-            <div class="badge">Gen Z Edition</div>
+            <div class="badge">Logic & Science</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/th-genz" class="card">
+            <div class="flag">🇹🇭</div>
+            <div class="lang-title">Thai (Gen Z)</div>
+            <div class="lang-desc">
+                TikTok Vibe: Real, Raw & Loud<br>
+                <span class="native-text">ฉบับวัยรุ่นตะโกน: ภาษาเพื่อน ฟาดความจริงแบบไม่อ้อมค้อม</span>
+            </div>
+            <div class="badge badge-genz">TikTok Vibe</div>
         </a>
 
         <a href="https://github.com/jojopat/project-reunion/tree/main/en-transcreate" class="card">
@@ -342,7 +360,7 @@
         </div>
     </div>
 
-    <a href="https://github.com/jojopat/project-reunion/" class="project-reunion root">View Full Source Code & Documentation</a>
+    <a href="https://github.com/jojopat/project-reunion/" class="readme-link">View Full Source Code & Documentation</a>
 
     <footer>
         <p>Project Re-Union: The Source Code of Love<br>
