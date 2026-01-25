@@ -73,3 +73,12 @@ Universe का Central Server आपका Status अपडेट करता 
 >
 > आज ही अपना नया जन्म (Rebirth) लीजिये एक **"Giver"** के रूप में।
 > **जब आप दूसरों के लिए जीना शुरू करते हैं, तभी आप असल में जीना शुरू करते हैं।**
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
