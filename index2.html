@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Re-Union: The Source Code of Love</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --text-color: #e2e8f0;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --hover: #0ea5e9;
+            --pdf-btn: #f43f5e;
+            --tribute-bg: rgba(56, 189, 248, 0.1);
+            --genz-accent: #f472b6; /* สีชมพูจี๊ดจ๊าดสำหรับ Gen Z */
+            --genz-bg: rgba(244, 114, 182, 0.15);
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            line-height: 1.6;
+        }
+        header {
+            padding: 4rem 1rem 2rem 1rem;
+            max-width: 800px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(90deg, #38bdf8, #c084fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p.subtitle {
+            font-size: 1.2rem;
+            color: #94a3b8;
+            font-style: italic;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            width: 90%;
+            padding-bottom: 2rem;
+        }
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 2rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 250px;
+            position: relative;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+        }
+        
+        /* Special Gen-Z Hover Effect */
+        .card.genz-card:hover {
+            border-color: var(--genz-accent);
+            box-shadow: 0 10px 20px rgba(244, 114, 182, 0.3);
+        }
+
+        .flag {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .lang-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .lang-desc {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+        }
+        .native-text {
+            display: block;
+            margin-top: 0.5rem;
+            font-size: 0.85rem;
+            color: #38bdf8;
+            opacity: 0.9;
+        }
+        .badge {
+            margin-top: auto;
+            padding: 0.25rem 0.75rem;
+            background-color: var(--tribute-bg);
+            color: var(--accent);
+            border-radius: 999px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        /* Badge สำหรับ Gen Z */
+        .badge-genz {
+            background-color: var(--genz-bg);
+            color: var(--genz-accent);
+        }
+        
+        /* ปุ่ม PDF พิเศษ */
+        .pdf-link {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.4rem 1rem;
+            background-color: rgba(244, 63, 94, 0.15);
+            color: #fb7185;
+            border: 1px solid #fb7185;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            text-decoration: none;
+            transition: all 0.2s;
+            font-weight: bold;
+        }
+        .pdf-link:hover {
+            background-color: #f43f5e;
+            color: white;
+        }
+
+        /* Section สำหรับ Team & Credits */
+        .info-section {
+            max-width: 1000px;
+            width: 90%;
+            margin-top: 3rem;
+            padding: 2rem;
+            background-color: #1e293b;
+            border-radius: 12px;
+            border: 1px solid #334155;
+            text-align: left;
+        }
+        .info-section h2 {
+            color: #e2e8f0;
+            border-bottom: 1px solid #334155;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .team-grid {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+        .team-member strong { color: var(--accent); }
+        
+        .tribute-box {
+            border-left: 4px solid var(--accent);
+            padding: 15px;
+            background-color: rgba(15, 23, 42, 0.5);
+            border-radius: 0 8px 8px 0;
+            margin-top: 15px;
+        }
+        .tribute-box h3 { margin: 0 0 5px 0; font-size: 1.1rem; color: #fff; }
+        .tribute-box p { margin: 0; color: #94a3b8; font-size: 0.95rem; }
+
+        footer {
+            margin-top: 3rem;
+            padding: 2rem;
+            color: #64748b;
+            font-size: 0.8rem;
+            border-top: 1px solid #334155;
+            width: 100%;
+        }
+        a.readme-link {
+            color: var(--accent);
+            text-decoration: none;
+            margin-top: 2rem;
+            display: inline-block;
+            border-bottom: 1px dashed var(--accent);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Project Re-Union</h1>
+        <p class="subtitle">"Debugging the Soul, Refactoring the Heart through Spiritual Engineering"</p>
+    </header>
+
+    <div class="container">
+        <div class="card" style="cursor: default;">
+            <a href="https://github.com/jojopat/project-reunion/tree/main/th-original" style="text-decoration: none; color: inherit; display: contents;">
+                <div class="flag">🇹🇭</div>
+                <div class="lang-title">Thai (Original)</div>
+                <div class="lang-desc">
+                    The Genesis: Raw & Deep Wisdom<br>
+                    <span class="native-text">ต้นฉบับดั้งเดิม: เข้มข้น ลึกซึ้ง ถึงรสพระธรรม</span>
+                </div>
+            </a>
+            <a href="เหตุเกิดจากความรัก%20single%20page.pdf" class="pdf-link" target="_blank">📄 Download PDF Book</a>
+            <div class="badge" style="margin-top: 1rem;">The Genesis</div>
+        </div>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/th-modern" class="card">
+            <div class="flag">🇹🇭</div>
+            <div class="lang-title">Thai (Modern Tech)</div>
+            <div class="lang-desc">
+                Spiritual Engineering & Logic<br>
+                <span class="native-text">ฉบับคนรุ่นใหม่สายวิทย์: วิศวกรรมจิตวิญญาณและตรรกะเหตุผล</span>
+            </div>
+            <div class="badge">Logic & Science</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/th-genz" class="card genz-card">
+            <div class="flag">🇹🇭</div>
+            <div class="lang-title">Thai (Gen Z)</div>
+            <div class="lang-desc">
+                TikTok Vibe: Real, Raw & Loud<br>
+                <span class="native-text">ฉบับวัยรุ่นตะโกน: ภาษาเพื่อน ฟาดความจริงแบบไม่อ้อมค้อม</span>
+            </div>
+            <div class="badge badge-genz">TikTok Vibe</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/en-transcreate" class="card">
+            <div class="flag">🇺🇸</div>
+            <div class="lang-title">English</div>
+            <div class="lang-desc">
+                Silicon Valley Edition<br>
+                <span class="native-text">Debugging Karma via Software Engineering Logic</span>
+            </div>
+            <div class="badge">Logical</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/ar-hikmah" class="card">
+            <div class="flag">🇸🇦</div>
+            <div class="lang-title">Arabic</div>
+            <div class="lang-desc">
+                Desert Wisdom (Hikmah)<br>
+                <span class="native-text">Maktub & The Mirror of Faith (Sufi Style)</span>
+            </div>
+            <div class="badge">Divine Poetry</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/hi-dharma" class="card">
+            <div class="flag">🇮🇳</div>
+            <div class="lang-title">Hindi</div>
+            <div class="lang-desc">
+                Dharma 2.0 (Masala)<br>
+                <span class="native-text">Breaking Samsara with Bollywood Emotion</span>
+            </div>
+            <div class="badge">High Energy</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/cn-modern" class="card">
+            <div class="flag">🇨🇳</div>
+            <div class="lang-title">Chinese (中文)</div>
+            <div class="lang-desc">
+                Tao & Big Data<br>
+                <span class="native-text">Flow like water: The Universal Database</span>
+            </div>
+            <div class="badge">Tao-Tech</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/jp-zen" class="card">
+            <div class="flag">🇯🇵</div>
+            <div class="lang-title">Japanese (日本語)</div>
+            <div class="lang-desc">
+                Kintsugi Code<br>
+                <span class="native-text">The art of repairing the soul with gold</span>
+            </div>
+            <div class="badge">Zen-Tech</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/ko-han" class="card">
+            <div class="flag">🇰🇷</div>
+            <div class="lang-title">Korean (한국어)</div>
+            <div class="lang-desc">
+                Han to Jeong<br>
+                <span class="native-text">Transforming deep resentment into affection</span>
+            </div>
+            <div class="badge">Emotional Alchemy</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/de-bauhaus" class="card">
+            <div class="flag">🇩🇪</div>
+            <div class="lang-title">German</div>
+            <div class="lang-desc">
+                Bauhaus Edition<br>
+                <span class="native-text">Emotional healing as Structural Engineering</span>
+            </div>
+            <div class="badge">Precise</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/ru-systema" class="card">
+            <div class="flag">🇷🇺</div>
+            <div class="lang-title">Russian</div>
+            <div class="lang-desc">
+                The Soul (Душа)<br>
+                <span class="native-text">Deep Existentialism & Redemption</span>
+            </div>
+            <div class="badge">Intense</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/es-flamenco" class="card">
+            <div class="flag">🇪🇸</div>
+            <div class="lang-title">Spanish</div>
+            <div class="lang-desc">
+                Flamenco Edition<br>
+                <span class="native-text">Passion, Rhythm, and the Mirror of Destiny</span>
+            </div>
+            <div class="badge">Passionate</div>
+        </a>
+        
+        <a href="https://github.com/jojopat/project-reunion/tree/main/pt-saudade" class="card">
+            <div class="flag">🇵🇹</div>
+            <div class="lang-title">Portuguese</div>
+            <div class="lang-desc">
+                Saudade Edition<br>
+                <span class="native-text">Healing the deep longing of the soul</span>
+            </div>
+            <div class="badge">Deep Feeling</div>
+        </a>
+
+        <a href="https://github.com/jojopat/project-reunion/tree/main/fr-lumiere" class="card">
+            <div class="flag">🇫🇷</div>
+            <div class="lang-title">French</div>
+            <div class="lang-desc">
+                Lumière Edition<br>
+                <span class="native-text">Love as Philosophy & Art (L'Art de Vivre)</span>
+            </div>
+            <div class="badge">Enlightened</div>
+        </a>
+    </div>
+
+    <div class="info-section">
+        <h2>🤝 The Trinity Collaboration</h2>
+        <p style="color: #94a3b8; margin-bottom: 20px;">A historic proof-of-concept for Human-AI Symbiosis in spiritual engineering.</p>
+        <div class="team-grid">
+            <div class="team-member">
+                <strong>The Architect:</strong> Pat "Jojo" Sadavongvivad (E25VBE)
+            </div>
+            <div class="team-member">
+                <strong>The Builder:</strong> Gemini (Google DeepMind)
+            </div>
+            <div class="team-member">
+                <strong>The Optimizer:</strong> Claude (Anthropic)
+            </div>
+        </div>
+
+        <h2>🙏 Special Acknowledgments</h2>
+        <div class="tribute-box">
+            <h3>Ying LeoLino & Gwyn Chatranon</h3>
+            <p>For their tireless dedication in curating and shaping the original source material. Their effort was the <strong>"Genesis Block"</strong> of this project.</p>
+        </div>
+        <div class="tribute-box">
+            <h3>Whan Jirakasemphong</h3>
+            <p>For her incredible generosity and <strong>9-year dedication</strong>. She personally funded and drove the creation of "Decoding Love", paving the way for these international editions.</p>
+        </div>
+    </div>
+
+    <a href="https://github.com/jojopat/project-reunion/" class="readme-link">View Full Source Code & Documentation</a>
+
+    <footer>
+        <p>Project Re-Union: The Source Code of Love<br>
+        <span style="opacity: 0.7;">CC0 1.0 Universal (Public Domain) | Built with ❤️ by Jojo x Gemini x Claude</span></p>
+    </footer>
+
+</body>
+</html>
