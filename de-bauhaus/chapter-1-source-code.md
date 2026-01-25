@@ -69,7 +69,7 @@ Er ist nur der **Lieferdienst (Delivery Service)**.
 * Das Paket (der Schmerz) ist eindeutig an DICH adressiert.
 * Und der Absender... bist **DU selbst** (aus der Vergangenheit).
 
-Im **Hauptbuch (General Ledger)** des Universums:
+In der **Bilanz des Universums (Universal Balance Sheet)**:
 * Du hast früher jemanden verletzt (**Soll**-Buchung).
 * Heute schickt das System dir die Rechnung zurück (**Haben**-Buchung), damit das Konto ausgeglichen (**Balanced**) ist.
 
