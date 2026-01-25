@@ -72,3 +72,12 @@ license: "CC0 1.0 Universal (Public Domain)"
 > **你活着，不是为了“被爱” (To be loved)；**
 > **你活着，是为了向这个世界“去爱” (To Love)。**
 > (正如Jojo在遇到真爱前无偿帮助了350个案例一样，当你是光源时，宇宙自会为你聚焦。)
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
