@@ -114,3 +114,12 @@ A女士得知后，主动去医院担起了照顾他的责任。她睡在病房�
 > **此时，你将以一个清白、无债的灵魂，去迎接真正的幸福。**
 ---
 *Transcreated for China by Project Reunion.*
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
