@@ -115,3 +115,12 @@ A양은 병원에 갔어. 소파에서 자면서 그를 간호했지.
 > 네 마음을 디버깅해. 네 업보를 업데이트해.
 > 그러면 눈앞의 현실이 마법처럼 바뀔 거야.
 > **사랑과 논리로 번역함.** (Pat Jojo & Gemini AI) 🇰🇷❤️
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
