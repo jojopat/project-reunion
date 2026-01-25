@@ -22,19 +22,25 @@ Sie sehen die Welt nicht "wie sie ist". Sie sehen die Welt **"wie SIE sind"**.
 Ihr Geist fungiert wie eine **Grafikkarte**, die Rohdaten durch die Filter Ihres vergangenen Karmas und Ihrer Gewohnheiten verarbeitet.
 * Die Außenwelt ist nur ein Greenscreen. Der Film, den Sie sehen, wird vollständig von Ihrem eigenen Geist projiziert.
 
-## 6.2 Der "Autsch"-Algorithmus
-Hier ist die härteste Wahrheit, aber sie wird Sie befreien:
-**"Wenn es wehtut... dann passt es (Match)."**
+## 6.2 Der "Autsch"-Algorithmus (The "Ouch" Rule)
+Hier ist die Wahrheit, die dich befreien wird:
+**"Wenn es weh tut... dann passt es." (If it hurts, it matches.)**
 
-Wenn Sie jemand verletzt (Aktion X) und Sie einen stechenden Schmerz in Ihrem Herzen spüren (Reaktion Y):
-* **Allgemeiner Glaube:** *"Ich habe Schmerzen, weil er schlecht ist."*
-* **Quellcode-Wahrheit:** *"Ich habe Schmerzen, weil **ich denselben Virus-Code** immer noch in meinem System versteckt habe."*
+Wenn dich jemand schlecht behandelt (Input X) und du fühlst einen stechenden Schmerz im Herzen (Output Y):
+* **Alter Glaube:** "Es tut weh, weil er böse ist."
+* **Source Code Wahrheit:** "Es tut weh, weil **ich denselben Bug noch in mir habe**."
 
 **Der Persistenz-Test:**
-Wenn sich dieselben Ereignisse wiederholen oder wenn allein der Gedanke an ihr Gesicht einen stechenden Schmerz (**"Autsch!"**) in Ihrer Brust auslöst, ist das der Beweis dafür, dass **der Virus noch aktiv ist.**
-* Wäre das Karma wirklich gelöscht... würde das Herz nicht "stechen". Sie würden es mit Verständnis betrachten, wie ein Feuer im Fernsehen, nicht wie ein Feuer in Ihrem eigenen Haus.
+Beobachte dich selbst:
+* Wiederholen sich dieselben Ereignisse immer wieder?
+* Oder wenn du nur an ihn denkst... zittert dein Herz vor Wut?
 
-**Die Lösung (The Fix):** Versuchen Sie nicht, *sie* zu reparieren. Gehen Sie zurück und debuggen Sie den Teil von *Ihnen*, der mit ihnen in Resonanz steht.
+Das ist der Beweis! **Der Virus ist in dir noch aktiv.**
+Wenn du wirklich geheilt wärst (Debugged), würde es nicht mehr weh tun. Du würdest es mit Mitgefühl sehen, wie ein Feuer im Fernsehen – nicht wie ein Feuer in deinem eigenen Haus.
+
+**Die Lösung:** Versuch nicht, den Charakter des anderen zu ändern.
+Komm zurück und debugge **"Dein Herz"**, das in Resonanz mit ihm schwingt.
+Sobald du die Datei löschst... hat der Spiegel nichts mehr zu reflektieren!
 
 ## 6.3 Fallstudie A: Der Schmetterlingseffekt der 5. Klasse
 *(Basierend auf der wahren Geschichte von "Miss A", einer hochkarätigen Alpha-Frau)*
