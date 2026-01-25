@@ -55,3 +55,12 @@ type: "Q&A / Dhamma Teaching"
 
 > "อย่าปล่อยให้ความเหงาหรือความผิดหวัง มาหลอกว่าเราไม่มีค่า
 > ตราบใดที่เรายังมีลมหายใจ เรายังมีโอกาสสร้าง 'กรรมดี' ใหม่ๆ ได้เสมอ"
+
+---
+### 🆘 Need Help? (ต้องการความช่วยเหลือด่วน?)
+**Disclaimer:** This content uses strong metaphors for educational and spiritual debugging purposes. It is not a substitute for professional medical advice.
+
+If you are feeling overwhelmed or having thoughts of harming yourself, please know that **you are valuable** and help is available.
+* **Global Crisis Lines:** [Find a Helpline](https://findahelpline.com/)
+* **Please reach out to a professional or a trusted friend.**
+---
