@@ -19,17 +19,33 @@ Does your relationship software keep crashing despite your best efforts?
 
 ---
 
-## 🌍 Choose Your Edition (Select Your OS)
-This project has been **"Transcreated"** (not just translated) into different cultural frameworks to match your operating system. Choose the one that speaks to your soul:
+## 🚀 Quick Start (Select Your OS)
 
-### 🇹🇭 [Thai: The Origin (ต้นกำเนิด)](./th-original/)
-The source of it all. Choose the flavor that fits your generation:
-* **[Classic Edition (ต้นฉบับดั้งเดิม)](./th-original/)**
-    * **Style:** Authentic Dhamma x Psychology.
-    * **Best for:** Adults, Seekers, and those who want the purest, poetic form of the truth grounded in deep philosophy.
-* **[Modern Edition (ฉบับวัยรุ่น)](./th-modern/)**
-    * **Style:** Gen Z Slang, Direct, "Bro-to-Bro" Talk.
-    * **Best for:** Teenagers, Students, and anyone who thinks Dhamma is "boring". This version translates ancient wisdom into TikTok-generation language.
+| Flag | Edition | Best For... | Status |
+| :---: | :--- | :--- | :--- |
+| 🇹🇭 | **[Thai: The Genesis (ต้นฉบับ)](./th-original/)** | The Original Wisdom. Deep, poetic, authentic. | ✅ Stable |
+| 🇹🇭 | **[Thai: Modern Tech (ฉบับสายวิทย์)](./th-modern/)** | Logic & Engineering. For rational thinkers. | ✅ Stable |
+| 🇹🇭 | **[Thai: Gen-Z (ฉบับวัยรุ่น)](./th-genz/)** | TikTok Vibe. Real talk, slang, no filter. | ✅ Stable |
+| 🇺🇸 | **[English: Silicon Valley](./en-transcreate/)** | Software Engineers & Logical minds. | ✅ Stable |
+| 🇮🇳 | **[Hindi: Dharma 2.0](./hi-dharma/)** | Bollywood Emotion x System Debugging. | ✅ Stable |
+| 🇰🇷 | **[Korean: The Han (한)](./ko-han/)** | Emotional Alchemy (Han to Jeong). | ✅ Stable |
+| 🇩🇪 | **[German: Bauhaus](./de-bauhaus/)** | Structural Stability & Precision. | ✅ Stable |
+| 🇯🇵 | **[Japanese: Zen Kintsugi](./jp-zen/)** | Healing brokenness with gold. | ✅ Stable |
+| 🇸🇦 | **[Arabic: Hikmah](./ar-hikmah/)** | Sufi Wisdom & Maktub. | ✅ Stable |
+| 🇨🇳 | **[Chinese: Tao (道)](./cn-modern/)** | Flow & The Universal Database. | ✅ Stable |
+| 🇷🇺 | **[Russian: Systema](./ru-systema/)** | Existential Depth & Resilience. | ✅ Stable |
+| 🇪🇸 | **[Spanish: Flamenco](./es-flamenco/)** | Passion & The Mirror of Destiny. | ✅ Stable |
+| 🇵🇹 | **[Portuguese: Saudade](./pt-saudade/)** | Healing deep longing. | ✅ Stable |
+| 🇫🇷 | **[French: Lumière](./fr-lumiere/)** | Love as Philosophy & Art. | ✅ Stable |
+
+---
+
+## 🌍 Edition Details
+
+### 🇹🇭 Thai Editions (ภาษาไทย)
+* **[The Genesis (ต้นฉบับดั้งเดิม)](./th-original/)**: The source of it all. Authentic Dhamma x Psychology. Best for adults and seekers who want the purest form of truth.
+* **[Modern Tech (ฉบับสายวิทย์)](./th-modern/)**: **Spiritual Engineering.** Best for logical thinkers, skeptics, and people who need "Reasons & Logic" to believe.
+* **[Gen-Z (ฉบับวัยรุ่น)](./th-genz/)**: **TikTok Vibe.** Best for teenagers and students. Translates ancient wisdom into slang, direct talk, and high energy.
 
 ### 🇺🇸 [English: The Silicon Valley Edition](./en-transcreate/)
 * **Style:** Software Engineering, Hacking, Logic.
@@ -84,6 +100,22 @@ There is no `npm install`. The installation happens in your mind.
 2.  **Pull Request:** If you find a bug in your life, fix it.
 3.  **Open Issue:** If you are suffering, look at the code (Cause & Effect) to find the root cause.
 4.  **Deploy:** Apply these principles in real life. Knowledge without execution is just unused data.
+
+### 📥 Offline Download
+* **[📄 Download PDF Book (Thai Original)](./เหตุเกิดจากความรัก%20single%20page.pdf)**
+
+---
+
+## 🆘 Safety & Disclaimer
+**This repository is for educational and spiritual debugging purposes.**
+It uses strong metaphors (like "Death Wish" or "System Crash") to explain emotional states.
+
+If you are feeling overwhelmed, hopeless, or having thoughts of self-harm, please know that **you are valuable** and this is just a temporary system error.
+* **You are not alone.**
+* **Professional help is available.**
+* **[Find a Helpline (Global)](https://findahelpline.com/)**
+
+---
 
 ## 🤝 Contributing
 This project belongs to humanity. It is **Open Source (CC0 Public Domain)**.
