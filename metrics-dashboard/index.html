@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project Re-Union Metrics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .metric-card { background: #f5f5f5; border-radius: 8px; padding: 20px; margin: 10px; display: inline-block; }
+        .big-number { font-size: 48px; font-weight: bold; color: #2ea44f; }
+        canvas { max-height: 400px; }
+    </style>
+</head>
+<body>
+    <h1>🌍 Project Re-Union: Global Impact Dashboard</h1>
+    
+    <div class="metric-card">
+        <div>Total Clones (All Time)</div>
+        <div class="big-number" id="total-clones">-</div>
+    </div>
+    <div class="metric-card">
+        <div>Unique People Reached</div>
+        <div class="big-number" id="unique-people">-</div>
+    </div>
+    <div class="metric-card">
+        <div>Countries (Estimated)</div>
+        <div class="big-number">5+</div>
+    </div>
+    
+    <h2>📈 14-Day Trend</h2>
+    <canvas id="trendChart"></canvas>
+    
+    <h2>🌐 Popular Content</h2>
+    <div id="popular-content"></div>
+
+    <script>
+        // Load data from CSV
+        async function loadData() {
+            const response = await fetch('summary.csv');
+            const csv = await response.text();
+            const lines = csv.trim().split('\n');
+            const headers = lines[0].split(',');
+            
+            const data = lines.slice(1).map(line => {
+                const values = line.split(',');
+                return {
+                    date: values[0],
+                    views: parseInt(values[1]),
+                    views_unique: parseInt(values[2]),
+                    clones: parseInt(values[3]),
+                    clones_unique: parseInt(values[4])
+                };
+            });
+            
+            updateDashboard(data);
+        }
+        
+        function updateDashboard(data) {
+            // Update big numbers
+            const totalClones = data.reduce((sum, d) => sum + d.clones, 0);
+            const totalUnique = data.reduce((sum, d) => sum + d.clones_unique, 0);
+            document.getElementById('total-clones').textContent = totalClones.toLocaleString();
+            document.getElementById('unique-people').textContent = totalUnique.toLocaleString();
+            
+            // Create chart
+            const ctx = document.getElementById('trendChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.map(d => d.date),
+                    datasets: [{
+                        label: 'Clones',
+                        data: data.map(d => d.clones),
+                        borderColor: '#2ea44f',
+                        tension: 0.3
+                    }, {
+                        label: 'Unique Cloners',
+                        data: data.map(d => d.clones_unique),
+                        borderColor: '#58a6ff',
+                        tension: 0.3
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    interaction: { intersect: false }
+                }
+            });
+        }
+        
+        loadData();
+    </script>
+</body>
+</html>
