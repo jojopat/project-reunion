@@ -1,0 +1,33 @@
+name: Collect Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # ทุกวันอาทิตย์เที่ยงคืน
+  workflow_dispatch:  # หรือกดรันด้วยมือได้
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Collect metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/collect_metrics.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add metrics/
+          git commit -m "Update metrics: $(date +%Y-%m-%d)" || exit 0
+          git push
