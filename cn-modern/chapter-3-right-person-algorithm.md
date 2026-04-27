@@ -1,6 +1,6 @@
 ---
 title: "第三章：真爱算法 (The Right Person Algorithm)"
-original_title: "บทที่ 3: คู่แท้และคน在ฝัน"
+original_title: "第三章：真爱与梦中情人"
 transcreated_by: "Pat Sadavongvivad x Gemini AI"
 style: "Confucian Wisdom x System Synchronization"
 license: "CC0 1.0 Universal (Public Domain)"
@@ -39,7 +39,7 @@ license: "CC0 1.0 Universal (Public Domain)"
 
 ### 4. 带宽同步 (Panna Sync - 智慧)
 你们的沟通带宽是否匹配？
-* 如果一个人喜欢聊宇宙人生、精神成长，而另一个人只关心娱乐八卦……通信带宽会堵塞，出现 **丢包 (Packet Loss)**，也就是“聊不到一块去”。
+* 如果一个人喜欢聊宇宙人生、精神成长，而另一个人只关心娱乐八卦……通信带宽会堵塞，出现 **丢包 (Packet Loss)**，也就是“聊不到一块 zuo”。
 * **Check:** *我们能无损地解码对方的思想吗？*
 
 ## 3.3 动态更新 (Dynamic Updates)
@@ -51,7 +51,7 @@ license: "CC0 1.0 Universal (Public Domain)"
 
 > **结语 (Summary):**
 > 停止寻找那个来“填补”你残缺的人（那是你自己的工作）。
-> 请寻找那个能促进你“成长”的智慧合伙人 (Wisdom Partner)。
+> 请寻找那个能促进你“成长”ของ智慧合伙人 (Wisdom Partner)。
 >
 > **不要去追逐“对的人” (The One)……**
 > **请先把自己修成“对的人”，系统自然会把那个同频的他也匹配给你。**
